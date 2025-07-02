@@ -1,7 +1,7 @@
 pipeline{
     agent any
     environment{
-        IMAGE_NAME = 'yourdockerhubusername/demo-app'
+        IMAGE_NAME = 'my-springboot-image'
 
     }
     tools{
